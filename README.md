@@ -1,9 +1,9 @@
-## Hi there 👋
+![logo](https://github.com/rifat-hasan121/rifat-hasan121/blob/main/GITHUB%20banna.png)
 
 <h1 align="center">Hi 👋, I'm Rifat Hasan</h1>
 <h3 align="center">🚀 Frontend Developer | JavaScript Enthusiast | Lifelong Learner</h3>
 
-<img aling="right" alt="codding" width="400px" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-hasan121&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-hasan121" /> </p>
 
@@ -20,6 +20,8 @@
 - 📫 How to reach me **rifathasannetrakona@gmail.com**
 
 - ⚡ Fun fact **I am thinking I am funny**
+
+<img aling="right" alt="codding" width="400px" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

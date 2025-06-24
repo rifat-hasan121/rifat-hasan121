@@ -9,7 +9,7 @@
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Front-End Developer**
-- 🤝 &nbsp; I’m looking to collaborate on [front end development])
+- 🤝 &nbsp; I’m looking to collaborate on [front end development]
 - 🌱 &nbsp; I’m currently learning NodeJS; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rifat-hasan121)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉

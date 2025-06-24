@@ -32,23 +32,54 @@
 </p>
 
 ### 🔨 Languages and Tools:
-### 🔨 Languages and Tools:
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="42px"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="42px"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="42px"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="42px"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="42px"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="42px"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="42px"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="42px"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="42px" style="background-color:white; padding:4px; border-radius:8px;"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="42px"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+  <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="42px"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="42px"/>
+</a>
+<a href="https://pixoeditor.com/" target="_blank">
+  <img align="left" src="https://pixoeditor.com/images/logo.svg" alt="Pixo Editor" height="42px"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="42px"/>
+</a>
 
-[![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/)
-[![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com/)
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/)
-[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://reactjs.org/)
-[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
-[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
-[![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)](https://expressjs.com/)
-[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://git-scm.com/)
-[![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
-[![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)](https://firebase.google.com/)
-[![Pixo](https://pixoeditor.com/images/logo.svg)](https://pixoeditor.com/)
-[![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)](https://www.linux.org/)
+<br />
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifat-hasan121&show_icons=true&locale=en&layout=compact" alt="rifat-hasan121" /></p>

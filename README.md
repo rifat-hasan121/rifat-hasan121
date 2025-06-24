@@ -4,24 +4,21 @@
 <h3 align="center">🚀 Frontend Developer | JavaScript Enthusiast | Lifelong Learner</h3>
 
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-hasan121&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-hasan121" /> </p>
+- 🔭 &nbsp; I’m currently working on **Front-End Developer**
+- 🤝 &nbsp; I’m looking to collaborate on [front end development])
+- 🌱 &nbsp; I’m currently learning NodeJS; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rifat-hasan121)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/md-rifat-hasan-46256b325/)
+- 📝 &nbsp; Checkout my [resume](comming soon)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat-hasan121" alt="rifat-hasan121" /></a> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/rifathasan1211" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/rifathasan1211?logo=twitter&style=for-the-badge" alt="https://x.com/rifathasan1211" /></a> </p>
-
-- 🔭 I’m currently studying Computer Science and Technology **Mymenshingh Polytechnic Institute**
-
-- 🌱 I’m currently learning **React, NextJs, MongoDB**
-
-- 💬 Ask me about **React, JS, NextJS**
-
-- 📫 How to reach me **rifathasannetrakona@gmail.com**
-
-- ⚡ Fun fact **I am thinking I am funny**
-
-<img aling="right" alt="codding" width="400px" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

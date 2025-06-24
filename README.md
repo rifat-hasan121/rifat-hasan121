@@ -75,11 +75,13 @@
 
 <br />
 
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifat-hasan121&show_icons=true&locale=en&layout=compact" alt="rifat-hasan121" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-hasan121&show_icons=true&locale=en" alt="rifat-hasan121" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-hasan121&" alt="rifat-hasan121" /></p>
+<br>
 

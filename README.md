@@ -19,7 +19,6 @@
 
 <br>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/rifathasan1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/rifathasan1211" height="30" width="40" /></a>
@@ -72,10 +71,10 @@
 <a href="https://expressjs.com/" target="_blank">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="42px"/>
 </a>
-
 <br />
 
 ### 📊 Github Stats
+<br/>
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)

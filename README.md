@@ -26,7 +26,7 @@
 <a href="https://instagram.com/https://www.instagram.com/rifat_hasan_9999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rifat_hasan_9999/" height="30" width="40" /></a>
 </p>
 
-🔨 Languages and Tools:
+##🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="42px"/>
 </a>
@@ -72,7 +72,7 @@
 
 <br/>
 <br/>
-📊 Github Stats
+##📊 Github Stats
 <br/>
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   

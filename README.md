@@ -74,7 +74,7 @@
 <br>
 
 
-### 📊 Github Stats
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats:
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>Add commentMore actions
 
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)

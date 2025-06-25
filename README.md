@@ -18,7 +18,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+# <img src="https://github.com/rifat-hasan121/rifat-hasan121/blob/main/icons8-connect.gif"/> <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/rifathasan1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/rifathasan1211" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-rifat-hasan-46256b325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rifat-hasan-46256b325/" height="30" width="40" /></a>

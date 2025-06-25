@@ -75,11 +75,11 @@
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats:
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>Add commentMore actions
+![](https://github-readme-stats.vercel.app/api?username=rifat-hasan121&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rifat-hasan121&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-hasan121&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+---
+![](https://visitcount.itsvg.in/api?id=rifat-hasan121&icon=0&color=0)
 
 <br>
